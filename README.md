@@ -1,4 +1,4 @@
-jquery_hover_img_replace
+jQuery Hover Image Replace
 ========================
 
 jQuery hover image replace, jQuery Hover Function, Replace Image on Hover
